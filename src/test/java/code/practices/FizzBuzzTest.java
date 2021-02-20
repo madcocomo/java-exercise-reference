@@ -1,5 +1,6 @@
-package code.practives;
+package code.practices;
 
+import code.practices.FizzBuzz;
 import org.junit.Test;
 
 import java.util.Arrays;
